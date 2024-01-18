@@ -27,6 +27,8 @@ de síntese de vocês. Ser objetivo não é ser simplório.
 
 ## Todos
 
+([script 1](./pages/page_1.md))
+
 ### Atividade Busca SCOPUS
 ![](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/presenting_monster.png){width=300px}
 
