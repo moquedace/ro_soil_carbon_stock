@@ -1,146 +1,52 @@
----
-title: "Atividades Estágio LabGeo ![](https://drive.google.com/uc?id=13nlqQHdwtV3KpUOBi5jMeb_yAeH7DViy){width=150px}"
-author: "Clara e Cássio"
-date: "2023-06-07"
-output: html_document
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
-
-# Atividades {.tabset}
-
-Boa noite pessoal,
-
-Seguem atividades para vocês executarem nos próximos
-dias e apresentarem na próxima reunião. Caso tenham dúvidas,
-compartilhem no grupo. Esse é um exercício para treinarem a capacidade
-de síntese de vocês. Ser objetivo não é ser simplório.
-
-**Bom feriado e bom descanso a todos!**
-
-![](./img/teste.JPG){width=150px}
-
-
-
-
-## Todos
-
-([script 1](./pages/page_1.md))
-
-### Atividade Busca SCOPUS
-![](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/presenting_monster.png){width=300px}
-
-
-#### Faça uma busca com até **5 termos** e identifique o artigo com maior número de citações
-
-1. Termos:
-2. Título do artigo:
-3. Nome dos autores:
-4. Nº de citações do artigo:
-5. Revista publicada:
-6. Tópico onde o artigo se enquadra:
-7. 3 termos/palavras chave do tópico do artigo: da mais relevante para a menos relevante (nuvem de palavras)
+<p align="left">
+<img src="./img/id_visual_2.0_labgeo_oficial.png" width="200">
+<img src="./img/logotipoUFV.png" width="400">
+</p>
 
 <p>&nbsp;</p>
 
-#### Autor
+## High-resolution mapping of soil carbon stocks in the western Amazon
+Welcome to the repository dedicated to the R programming language source code for the scientific article **High-resolution mapping of soil carbon stocks in the western Amazon**. This repository aims to transparently and accessibly provide the scripts and algorithms used in the analysis and mapping of soil carbon in the state of Rondônia, Brazil. This repository establishes a solid foundation for the replication of results and the enhancement of research.
 
-Faça uma busca com o **nome do professor indicado** e responda os seguintes
-itens:
 
-1. Ano do primeiro artigo
-2. Número de documentos indexados
-3. *h*-index
-4. Primeiro coautor
-5. tema com mais trabalhos de impacto
-
-- Isabelle: Márcio
-- Miguel: Elpídio
-- Osvaldo: Irene
-- Sarah: Júlio
-- Ana Paula: Carlos
-
-<p>&nbsp;</p>
-
-#### Instituição
-
-Indique o **número de publicações** da UFV nas seguintes áreas:
-
-- Ana Paula: Materials Science
-- Isabelle: Agricultural and Biological Sciences
-- Miguel: Environmental Science
-- Osvaldo: Engineering
-- Sarah: Earth and Planetary Sciences
-
-<p>&nbsp;</p>
-
-#### Dentro da **sua área de pesquisa**, em qual revista a UFV mais publica?
-Escolha um professor com *h*-index $\ge$ 22 da UFV:
-
-1. Nome completo:
-2. Departamento na UFV:
-3. *h*-index:
-
-<p>&nbsp;</p>
-
-#### Revista:
-
-1. Qual a revista que mais publica na sua área de pesquisa?
-2. Qual o nome da categoria?
-3. Qual o ranking?
-4. Ela subiu ou decresceu no ranking nos últimos 5 anos?
-
-<p>&nbsp;</p>
-
-**Obs.: Vocês identificarão a sua área de pesquisa de acordo com a
-atividade que cada um está desenvolvendo Na próxima reunião cada um fará
-uma apresentação de 3 min com no máximo 1 slide.**
-
-![](https://usagif.com/wp-content/uploads/gify/gif-good-job-title.gif){width=100px}
+### Objective:
+The main goal of this repository is to facilitate the understanding and replication of the conducted study, allowing researchers, students, and interested individuals to access the code and algorithms used to process and analyze geospatial data related to soil carbon in Rondônia. Additionally, it promotes open, transparent, and accessible science in open source (`R language`).
 
 
 
-
-## Individual {.tabset}
-### Ana Paula
-
-#### Modelagem N
-
-Apresentar na reunião em 3 min:
-
-- Gráficos de dispersão
-- Boxplot
-- Mapa com a localização das amostras ponderado pela concentração de N
+### Repository content:
+#### R Scripts:
+[Construction of splines.](./pages/splines.md)<br>
+[Model fitting.](./pages/fit_model.md)<br>
+[Map prediction.](./pages/pred_map.md)<br>
+[Stratification of SOC stocks in protected areas and soil classes.](./pages/strat.md)<br>
+[Comparison of our model with national and global models.](./pages/comp_models.md)<br>
 
 
-
-### Isabelle
-- Envio da próxima versão do Relatório da IC
-- Atividades pendentes
-
-
-
-### Miguel
-- Leitura do projeto enviado
-- 3 min para apresentação do projeto
-- Correr atrás de como se vincular como estágio voluntário
+#### Datasets:
+[Data samples used in the study.](./pages/comp_models.md)<br>
+[Environmental predictors.](./pages/predictors.md)<br>
+[Final dataset for model fitting and result reproduction.](./pages/dataset_ocs.md)<br>
 
 
-### Osvaldo
-- Leitura do artigo enviado
-- Escrita projeto IC (objetivo + revisão de literatura)
-- Atividades pendentes
-- Correr atrás de como se vincular como estágio voluntário
+### Attention:
+The authors are not obligated to provide user support, updates, or any bug fixes.
 
-### Sarah
-- Pesquisar sobre o método de determinação da densidade do solo “método da proveta”
-- Apresentar na próxima reunião em 5 min
+
+### How to contribute:
+For more information or collaboration opportunities, please use the emails cassiomoquedace@gmail.com or labgeo@ufv.br.
+
+
+### Acknowledgments:
+We appreciate your interest in this work. We hope that this repository not only provides a solid foundation for result replication but also serves as support for future research related to soil carbon mapping and the use of machine learning in digital soil mapping in similar contexts.
 
 
 
+### Reference:
+Moquedace, C. M., Baldi, C. G. O., Siqueira, R. G., Cardoso I. M., Souza, E. F. M., Fontes, R. L. F., Francelino, M. R., Gomes, L. C., Fernandes-Filho, E. I. High-resolution mapping of soil carbon stocks in the western Amazon. *Geoderma Regional*, v. xxx, p. xxx, 2024.
+
+We hope this repository serves as a resource for the scientific community interested in soil carbon mapping studies and the application of machine learning techniques. Collaboration is essential for advancing the understanding and conservation of natural resources.
 
 
-
-
+We hope this repository serves as a resource for the scientific community interested in soil carbon mapping studies and the application of machine learning techniques. Collaboration is essential for advancing the understanding and conservation of natural resources.
