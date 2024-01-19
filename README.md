@@ -48,5 +48,3 @@ Moquedace, C. M., Baldi, C. G. O., Siqueira, R. G., Cardoso I. M., Souza, E. F. 
 
 We hope this repository serves as a resource for the scientific community interested in soil carbon mapping studies and the application of machine learning techniques. Collaboration is essential for advancing the understanding and conservation of natural resources.
 
-
-We hope this repository serves as a resource for the scientific community interested in soil carbon mapping studies and the application of machine learning techniques. Collaboration is essential for advancing the understanding and conservation of natural resources.
