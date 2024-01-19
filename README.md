@@ -1,7 +1,6 @@
 
-<p align="left">
-<img src="./img/id_visual_2.0_labgeo_oficial.png" width="200">
-<img src="./img/logotipoUFV.png" width="400">
+<p align="center">
+<img src="./img/labgeo_ufv.png" width="1200">
 </p>
 
 <p>&nbsp;</p>
