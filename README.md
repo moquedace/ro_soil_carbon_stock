@@ -28,6 +28,10 @@ The main goal of this repository is to facilitate the understanding and replicat
 [Environmental predictors.](./pages/predictors.md)<br>
 [Final dataset for model fitting and result reproduction.](./pages/dataset_ocs.md)<br>
 
+#### Results:
+The final maps (mean, quantiles, and coefficient of variation) of both soil organic carbon stock estimates and uncertainties are available for download on Zenodo using the DOI below:<br>
+[![DOI](https://zenodo.org/badge/744895622.svg)](https://zenodo.org/doi/10.5281/zenodo.10543942)
+
 
 ### Attention:
 The authors are not obligated to provide user support, updates, or any bug fixes.
