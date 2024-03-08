@@ -47,7 +47,7 @@ We appreciate your interest in this work. We hope that this repository not only 
 
 
 ### Reference:
-Moquedace, C. M., Baldi, C. G. O., Siqueira, R. G., Cardoso I. M., Souza, E. F. M., Fontes, R. L. F., Francelino, M. R., Gomes, L. C., Fernandes-Filho, E. I. High-resolution mapping of soil carbon stocks in the western Amazon. *Geoderma Regional*, v. 36, p. e00773, 2024. DOI: [![DOI](https://zenodo.org/badge/744895622.svg)](https://doi.org/10.1016/j.geodrs.2024.e00773)
+Moquedace, C. M., Baldi, C. G. O., Siqueira, R. G., Cardoso I. M., Souza, E. F. M., Fontes, R. L. F., Francelino, M. R., Gomes, L. C., Fernandes-Filho, E. I. High-resolution mapping of soil carbon stocks in the western Amazon. *Geoderma Regional*, v. 36, p. e00773, 2024. DOI: [10.1016/j.geodrs.2024.e00773](https://doi.org/10.1016/j.geodrs.2024.e00773)
 
 
 We hope this repository serves as a resource for the scientific community interested in soil carbon mapping studies and the application of machine learning techniques. Collaboration is essential for advancing the understanding and conservation of natural resources.
