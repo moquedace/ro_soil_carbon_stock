@@ -1,24 +1,25 @@
 <p align="center">
-<img src="./img/terrantar_labgeo.png" width="1200">
+<img src="./img/labgeo_ufv.png" width="1200">
 </p>
 
 <p>&nbsp;</p>
 
-## Global warming may turn ice-free areas of Maritime and Peninsular Antarctica into potential soil organic carbon sinks
-Welcome to the repository dedicated to the R programming language source code for the scientific article **Global warming may turn ice-free areas of Maritime and Peninsular Antarctica into potential soil organic carbon sinks**. This repository aims to transparently and accessibly provide the scripts and algorithms used in the analysis and mapping of soil carbon in the Antarctica. This repository establishes a solid foundation for the replication of results and the enhancement of research.
+## High-resolution mapping of soil carbon stocks in the western Amazon
+Welcome to the repository dedicated to the R programming language source code for the scientific article **High-resolution mapping of soil carbon stocks in the western Amazon**. This repository aims to transparently and accessibly provide the scripts and algorithms used in the analysis and mapping of soil carbon in the state of Rondônia, Brazil. This repository establishes a solid foundation for the replication of results and the enhancement of research.
 
 
 ### Objective:
-The main goal of this repository is to facilitate the understanding and replication of the conducted study, allowing researchers, students, and interested individuals to access the code and algorithms used to process and analyze geospatial data related to soil carbon in Antarctica. Additionally, it promotes open, transparent, and accessible science in open source (`R language`).
+The main goal of this repository is to facilitate the understanding and replication of the conducted study, allowing researchers, students, and interested individuals to access the code and algorithms used to process and analyze geospatial data related to soil carbon in Rondônia. Additionally, it promotes open, transparent, and accessible science in open source (`R language`).
 
 
 
 ### Repository content:
 #### R Scripts:
-[Pedotranference soil density and construction of splines.](./pages/pedotransfer_splines.md)<br>
+[Construction of splines.](./pages/splines.md)<br>
 [Model fitting.](./pages/fit_model.md)<br>
 [Map prediction.](./pages/pred_map.md)<br>
-
+[Stratification of SOC stocks in protected areas and soil classes.](./pages/strat.md)<br>
+[Comparison of our model with national and global models.](./pages/comp_models.md)<br>
 
 
 #### Datasets:
@@ -28,7 +29,7 @@ The main goal of this repository is to facilitate the understanding and replicat
 
 #### Results:
 The final maps (mean, quantiles, and coefficient of variation) of both soil organic carbon stock estimates and uncertainties are available for download on Zenodo using the DOI below:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14004139.svg)](https://doi.org/10.5281/zenodo.14004139)
+[![DOI](https://zenodo.org/badge/744895622.svg)](https://zenodo.org/doi/10.5281/zenodo.10543942)
 
 
 ### Attention:
@@ -45,7 +46,7 @@ We appreciate your interest in this work. We hope that this repository not only 
 
 
 ### Reference:
-Mello, D., Francelino, M. R., Moquedace, C. M., Baldi, C. G. O., Silva, L., Siqueira, R. G., Veloso, G. V., Fernandes-Filho, E. I., Thomazini, A., Demattê, J.,  Ferreira, T., Gomes, L. C., Senra, E., Schaefer, C. E. G. R.  Global warming may turn ice-free areas of Maritime and Peninsular Antarctica into potential soil organic carbon sinks. *Commun Earth Environ*, v. xx, p. xx, 2024. DOI: [xxxxxxxxxxxxxx](https:xxxxxxxxxxxxx)
+Moquedace, C. M., Baldi, C. G. O., Siqueira, R. G., Cardoso I. M., Souza, E. F. M., Fontes, R. L. F., Francelino, M. R., Gomes, L. C., Fernandes-Filho, E. I. High-resolution mapping of soil carbon stocks in the western Amazon. *Geoderma Regional*, v. 36, p. e00773, 2024. DOI: [10.1016/j.geodrs.2024.e00773](https://doi.org/10.1016/j.geodrs.2024.e00773)
 
 
 We hope this repository serves as a resource for the scientific community interested in soil carbon mapping studies and the application of machine learning techniques. Collaboration is essential for advancing the understanding and conservation of natural resources.
