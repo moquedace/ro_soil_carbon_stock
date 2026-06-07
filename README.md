@@ -37,9 +37,17 @@
   <a href="#reproducibility-notes">Reproducibility Notes</a>
 </p>
 
-<p align="center">
-  <img src="https://zenodo.org/records/10543942/files/001_ocs_0_100_mean.jpg?download=1" alt="Mean SOC stock map for 0-100 cm in Rondonia" width="860">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Canonical citation</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      Moquedace, C. M. et al. (2024). <em>High-resolution mapping of soil carbon stocks in the western Amazon</em>.<br>
+      <strong>Geoderma Regional</strong>, 36, e00773. <a href="https://doi.org/10.1016/j.geodrs.2024.e00773">https://doi.org/10.1016/j.geodrs.2024.e00773</a>
+    </td>
+  </tr>
+</table>
 
 ## Paper First
 

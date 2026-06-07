@@ -30,7 +30,7 @@ gc()
 
 
 
-setwd("C:/Usuario/Ganso/mde/dados")
+setwd("path/to/project_root")
 
 rdSoil <- read.csv2("dados_base.csv")
 

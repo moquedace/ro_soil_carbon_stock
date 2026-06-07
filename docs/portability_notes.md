@@ -13,7 +13,7 @@ The recovered scripts reference several historical working roots:
 - `D:/Usuario/cassio/R/ro_soil_carbon`
 - `E:/bkp_cassio/R/ro_soil_carbon`
 - `C:/R/mestrado/soil_carbon`
-- `C:/Usuario/Ganso/mde/dados`
+- `path/to/project_root`
 - `C:/R/co2`
 
 These paths should be replaced in a future technical cleanup with a shared
