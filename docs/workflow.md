@@ -4,8 +4,10 @@ This repository is organized around the final workflow described in the
 published article. The article is the canonical source; this repository is only
 the supporting code and reproducibility layer.
 
-Moquedace et al. (2024). High-resolution mapping of soil carbon stocks in the
-western Amazon. Geoderma Regional, 36, e00773.
+Moquedace, C. M., Baldi, C. G. O., Siqueira, R. G., Cardoso, I. M., de Souza,
+E. F. M., Fontes, R. L. F., Francelino, M. R., Gomes, L. C., &
+Fernandes-Filho, E. I. (2024). High-resolution mapping of soil carbon stocks in
+the western Amazon. Geoderma Regional, 36, e00773.
 https://doi.org/10.1016/j.geodrs.2024.e00773
 
 ## 1. Soil profile harmonization

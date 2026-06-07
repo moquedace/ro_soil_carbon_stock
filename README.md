@@ -43,7 +43,8 @@
   </tr>
   <tr>
     <td align="center">
-      Moquedace, C. M. et al. (2024). <em>High-resolution mapping of soil carbon stocks in the western Amazon</em>.<br>
+      Moquedace, C. M.; Baldi, C. G. O.; Siqueira, R. G.; Cardoso, I. M.; de Souza, E. F. M.; Fontes, R. L. F.; Francelino, M. R.; Gomes, L. C.; Fernandes-Filho, E. I. (2024).<br>
+      <em>High-resolution mapping of soil carbon stocks in the western Amazon</em>.<br>
       <strong>Geoderma Regional</strong>, 36, e00773. <a href="https://doi.org/10.1016/j.geodrs.2024.e00773">https://doi.org/10.1016/j.geodrs.2024.e00773</a>
     </td>
   </tr>
