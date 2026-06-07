@@ -1,0 +1,69 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "ro_soil_carbon_stock",
+  "description": "R scripts supporting high-resolution soil organic carbon stock mapping in Rondonia, western Amazon, Brazil.",
+  "codeRepository": "https://github.com/moquedace/ro_soil_carbon_stock",
+  "programmingLanguage": "R",
+  "runtimePlatform": "R",
+  "applicationCategory": "Digital soil mapping",
+  "keywords": [
+    "soil organic carbon",
+    "digital soil mapping",
+    "random forest",
+    "geospatial",
+    "Rondonia",
+    "Amazon"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Cassio Marques",
+      "familyName": "Moquedace"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Clara Gloria Oliveira",
+      "familyName": "Baldi"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Rafael Gomes",
+      "familyName": "Siqueira"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Irene Maria",
+      "familyName": "Cardoso"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Emanuel Fernando Maia",
+      "familyName": "de Souza"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Renildes Lucio Ferreira",
+      "familyName": "Fontes"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Marcio Rocha",
+      "familyName": "Francelino"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Lucas Carvalho",
+      "familyName": "Gomes"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Elpidio Inacio",
+      "familyName": "Fernandes-Filho"
+    }
+  ],
+  "citation": "https://doi.org/10.1016/j.geodrs.2024.e00773",
+  "license": "https://spdx.org/licenses/MIT",
+  "isSupplementTo": "https://doi.org/10.1016/j.geodrs.2024.e00773",
+  "isPartOf": "https://doi.org/10.5281/zenodo.10543942"
+}

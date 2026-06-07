@@ -1,0 +1,73 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">High-resolution mapping of soil carbon stocks in the western Amazon</title>
+  <desc id="desc">A scientific GitHub README banner with contour lines, raster cells, and soil carbon mapping metadata.</desc>
+  <rect width="1400" height="420" rx="26" fill="#101820"/>
+  <rect x="1" y="1" width="1398" height="418" rx="25" stroke="#d7a01e" stroke-opacity="0.55" stroke-width="2"/>
+
+  <g opacity="0.18">
+    <path d="M-20 322C115 275 178 343 290 301C402 259 405 166 545 165C685 164 743 238 857 204C971 170 968 78 1116 82C1264 86 1302 175 1434 137" stroke="#d7a01e" stroke-width="3"/>
+    <path d="M-37 358C96 315 167 383 300 339C433 295 432 204 553 201C674 198 732 271 871 238C1010 205 1011 116 1134 119C1257 122 1307 211 1438 176" stroke="#87a878" stroke-width="2"/>
+    <path d="M-35 389C101 348 166 414 307 371C448 328 447 235 558 235C669 235 735 304 882 273C1029 242 1034 151 1143 154C1252 157 1318 244 1439 213" stroke="#f2e8cf" stroke-width="1.5"/>
+  </g>
+
+  <g opacity="0.16">
+    <circle cx="1098" cy="126" r="94" stroke="#f2e8cf" stroke-width="2"/>
+    <circle cx="1098" cy="126" r="66" stroke="#f2e8cf" stroke-width="2"/>
+    <circle cx="1098" cy="126" r="38" stroke="#f2e8cf" stroke-width="2"/>
+    <circle cx="1195" cy="248" r="72" stroke="#d7a01e" stroke-width="2"/>
+    <circle cx="1195" cy="248" r="46" stroke="#d7a01e" stroke-width="2"/>
+    <circle cx="1195" cy="248" r="22" stroke="#d7a01e" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(1010 56)">
+    <rect x="0" y="0" width="274" height="274" rx="16" fill="#17242c" stroke="#31424c"/>
+    <g opacity="0.95">
+      <rect x="25" y="25" width="36" height="36" rx="4" fill="#334c38"/>
+      <rect x="64" y="25" width="36" height="36" rx="4" fill="#496a4a"/>
+      <rect x="103" y="25" width="36" height="36" rx="4" fill="#6f7d48"/>
+      <rect x="142" y="25" width="36" height="36" rx="4" fill="#a67f2d"/>
+      <rect x="181" y="25" width="36" height="36" rx="4" fill="#d7a01e"/>
+      <rect x="25" y="64" width="36" height="36" rx="4" fill="#263a36"/>
+      <rect x="64" y="64" width="36" height="36" rx="4" fill="#415f45"/>
+      <rect x="103" y="64" width="36" height="36" rx="4" fill="#788148"/>
+      <rect x="142" y="64" width="36" height="36" rx="4" fill="#b88324"/>
+      <rect x="181" y="64" width="36" height="36" rx="4" fill="#e5b642"/>
+      <rect x="25" y="103" width="36" height="36" rx="4" fill="#1d3036"/>
+      <rect x="64" y="103" width="36" height="36" rx="4" fill="#37524a"/>
+      <rect x="103" y="103" width="36" height="36" rx="4" fill="#5f704d"/>
+      <rect x="142" y="103" width="36" height="36" rx="4" fill="#916d32"/>
+      <rect x="181" y="103" width="36" height="36" rx="4" fill="#c9952a"/>
+      <rect x="25" y="142" width="36" height="36" rx="4" fill="#142832"/>
+      <rect x="64" y="142" width="36" height="36" rx="4" fill="#294345"/>
+      <rect x="103" y="142" width="36" height="36" rx="4" fill="#4d613f"/>
+      <rect x="142" y="142" width="36" height="36" rx="4" fill="#725a2e"/>
+      <rect x="181" y="142" width="36" height="36" rx="4" fill="#a77725"/>
+      <rect x="25" y="181" width="36" height="36" rx="4" fill="#10232d"/>
+      <rect x="64" y="181" width="36" height="36" rx="4" fill="#20393d"/>
+      <rect x="103" y="181" width="36" height="36" rx="4" fill="#3d523a"/>
+      <rect x="142" y="181" width="36" height="36" rx="4" fill="#5f4a2b"/>
+      <rect x="181" y="181" width="36" height="36" rx="4" fill="#8a651f"/>
+    </g>
+    <path d="M234 24V218" stroke="#f2e8cf" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="234" cy="54" r="5" fill="#d7a01e"/>
+    <circle cx="234" cy="118" r="5" fill="#87a878"/>
+    <circle cx="234" cy="184" r="5" fill="#f2e8cf"/>
+  </g>
+
+  <g transform="translate(76 68)">
+    <text x="0" y="0" fill="#d7a01e" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">DIGITAL SOIL MAPPING / WESTERN AMAZON</text>
+    <text x="0" y="60" fill="#f7f3e8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="50" font-weight="800">Soil carbon stocks at 30 m</text>
+    <text x="0" y="108" fill="#d9e2d4" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="500">Publication-oriented R code for SOC modeling, uncertainty maps, and figure provenance.</text>
+  </g>
+
+  <g transform="translate(76 236)" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <rect x="0" y="0" width="152" height="42" rx="21" fill="#17242c" stroke="#31424c"/>
+    <text x="24" y="27" fill="#f7f3e8" font-size="16" font-weight="700">Random Forest</text>
+    <rect x="168" y="0" width="120" height="42" rx="21" fill="#17242c" stroke="#31424c"/>
+    <text x="193" y="27" fill="#f7f3e8" font-size="16" font-weight="700">100 runs</text>
+    <rect x="304" y="0" width="104" height="42" rx="21" fill="#17242c" stroke="#31424c"/>
+    <text x="329" y="27" fill="#f7f3e8" font-size="16" font-weight="700">Q05/Q95</text>
+    <rect x="424" y="0" width="148" height="42" rx="21" fill="#17242c" stroke="#31424c"/>
+    <text x="449" y="27" fill="#f7f3e8" font-size="16" font-weight="700">Rondonia, BR</text>
+  </g>
+</svg>

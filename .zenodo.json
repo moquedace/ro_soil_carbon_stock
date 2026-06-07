@@ -1,0 +1,60 @@
+{
+  "title": "High-resolution mapping of soil carbon stocks in the western Amazon",
+  "description": "R scripts and provenance notes supporting the article High-resolution mapping of soil carbon stocks in the western Amazon, published in Geoderma Regional.",
+  "upload_type": "software",
+  "publication_date": "2024-02-03",
+  "creators": [
+    {
+      "name": "Moquedace, Cassio Marques"
+    },
+    {
+      "name": "Baldi, Clara Gloria Oliveira"
+    },
+    {
+      "name": "Siqueira, Rafael Gomes"
+    },
+    {
+      "name": "Cardoso, Irene Maria"
+    },
+    {
+      "name": "de Souza, Emanuel Fernando Maia"
+    },
+    {
+      "name": "Fontes, Renildes Lucio Ferreira"
+    },
+    {
+      "name": "Francelino, Marcio Rocha"
+    },
+    {
+      "name": "Gomes, Lucas Carvalho"
+    },
+    {
+      "name": "Fernandes-Filho, Elpidio Inacio"
+    }
+  ],
+  "keywords": [
+    "soil organic carbon",
+    "digital soil mapping",
+    "random forest",
+    "R",
+    "Rondonia",
+    "Amazon",
+    "geospatial",
+    "machine learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.geodrs.2024.e00773",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.5281/zenodo.10543942",
+      "relation": "isSupplementedBy",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ],
+  "license": "mit"
+}

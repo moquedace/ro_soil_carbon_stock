@@ -1,0 +1,49 @@
+# R session and project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local environments and caches
+renv/library/
+renv/staging/
+.cache/
+tmp/
+temp/
+
+# Large geospatial/data products
+*.tif
+*.tiff
+*.vrt
+*.grd
+*.gri
+*.asc
+*.nc
+*.hdf
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.geojson
+*.rds
+*.RData
+*.xlsx
+*.xls
+*.csv
+*.zip
+
+# Local working directories used by the original scripts
+covariaveis/
+extract_xy/
+results_ocs/
+results_ocs_100/
+tiles/
+fig/
+sheet/
+shp/
+comparacao/
+prep/
+modelo/
+planilhas/

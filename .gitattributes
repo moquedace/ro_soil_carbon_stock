@@ -1,0 +1,24 @@
+* text=auto
+
+*.R text eol=lf
+*.md text eol=lf
+*.cff text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.tif binary
+*.tiff binary
+*.zip binary
+*.RData binary
+*.rds binary
+*.xlsx binary
+*.xls binary
+*.shp binary
+*.shx binary
+*.dbf binary
+*.gpkg binary

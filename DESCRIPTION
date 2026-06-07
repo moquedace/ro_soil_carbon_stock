@@ -1,0 +1,69 @@
+Type: Project
+Package: ro_soil_carbon_stock
+Title: High-Resolution Mapping of Soil Carbon Stocks in the Western Amazon
+Version: 1.0.0
+Authors@R: c(
+    person("Cassio Marques", "Moquedace", role = c("aut", "cre")),
+    person("Clara Gloria Oliveira", "Baldi", role = "aut"),
+    person("Rafael Gomes", "Siqueira", role = "aut"),
+    person("Irene Maria", "Cardoso", role = "aut"),
+    person("Emanuel Fernando Maia", "de Souza", role = "aut"),
+    person("Renildes Lucio Ferreira", "Fontes", role = "aut"),
+    person("Marcio Rocha", "Francelino", role = "aut"),
+    person("Lucas Carvalho", "Gomes", role = "aut"),
+    person("Elpidio Inacio", "Fernandes-Filho", role = "aut"))
+Description: R scripts used to model and map soil organic carbon stocks in
+    Rondonia, Brazil, using machine learning and digital soil mapping.
+License: MIT
+Depends:
+    R (>= 4.2.0)
+Imports:
+    aqp,
+    beepr,
+    boot,
+    caret,
+    Cubist,
+    data.table,
+    devtools,
+    DescTools,
+    doParallel,
+    dplyr,
+    e1071,
+    earth,
+    fasterize,
+    geobr,
+    ggplot2,
+    ggridges,
+    gbm,
+    gstat,
+    GSIF,
+    Hmisc,
+    hydroGOF,
+    kernlab,
+    kknn,
+    labgeo,
+    lattice,
+    MASS,
+    maptools,
+    mdsFuncs,
+    mpspline2,
+    moments,
+    parallelly,
+    plotKML,
+    plyr,
+    quantregForest,
+    randomForest,
+    raster,
+    RColorBrewer,
+    readxl,
+    RSAGA,
+    sf,
+    soilpalettes,
+    sp,
+    stringr,
+    terra,
+    tidyr,
+    tmap,
+    tmaptools,
+    xlsx
+Encoding: UTF-8

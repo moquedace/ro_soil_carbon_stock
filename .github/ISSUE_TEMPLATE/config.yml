@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Collaboration inquiry
+    url: mailto:cassiomoquedace@gmail.com
+    about: Contact the corresponding repository maintainer for collaboration.
+  - name: LabGeo
+    url: mailto:labgeo@ufv.br
+    about: Contact LabGeo/UFV.

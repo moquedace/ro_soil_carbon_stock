@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and dataset."
+title: "High-resolution mapping of soil carbon stocks in the western Amazon"
+authors:
+  - family-names: "Moquedace"
+    given-names: "Cassio Marques"
+  - family-names: "Baldi"
+    given-names: "Clara Gloria Oliveira"
+  - family-names: "Siqueira"
+    given-names: "Rafael Gomes"
+  - family-names: "Cardoso"
+    given-names: "Irene Maria"
+  - family-names: "de Souza"
+    given-names: "Emanuel Fernando Maia"
+  - family-names: "Fontes"
+    given-names: "Renildes Lucio Ferreira"
+  - family-names: "Francelino"
+    given-names: "Marcio Rocha"
+  - family-names: "Gomes"
+    given-names: "Lucas Carvalho"
+  - family-names: "Fernandes-Filho"
+    given-names: "Elpidio Inacio"
+year: 2024
+doi: "10.1016/j.geodrs.2024.e00773"
+repository-code: "https://github.com/moquedace/ro_soil_carbon_stock"
+license: "MIT"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.10543942"
+    description: "Zenodo record for final SOC stock maps"
